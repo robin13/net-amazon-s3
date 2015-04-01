@@ -1,4 +1,5 @@
 Revision history for Perl module Net::Amazon::S3:
+0.60 2015-04-01 Moose enum fixes
 
 0.60 Sun May 11 23:41:12 BST 2014
 

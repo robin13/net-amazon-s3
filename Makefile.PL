@@ -62,7 +62,7 @@ my %WriteMakefileArgs = (
     "Test::More" => 0,
     "vars" => 0
   },
-  "VERSION" => "0.60",
+  "VERSION_FROM"  => 'lib/Net/Amazon/S3.pm',
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -1,6 +1,6 @@
 package Net::Amazon::S3;
 {
-  $Net::Amazon::S3::VERSION = '0.60';
+  $Net::Amazon::S3::VERSION = '0.61';
 }
 use Moose 0.85;
 use MooseX::StrictConstructor 0.16;
